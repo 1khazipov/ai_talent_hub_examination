@@ -1,0 +1,8 @@
+.env
+
+pycache/
+/data/faiss_index.bin
+/data/text_chunks.json
+
+.idea/
+.vscode/
